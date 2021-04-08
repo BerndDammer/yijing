@@ -1,1 +1,1 @@
-start e:\stm32\git\git-cmd.exe
+start ..\..\bin\git\git-cmd.exe
